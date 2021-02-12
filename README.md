@@ -2,7 +2,7 @@
 
 PrintaSkwela
 
-[!alt screenshot](screenshot.png)
+![alt screenshot](screenshot.png)
 
 ## Getting Started
 
